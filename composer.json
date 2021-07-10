@@ -1,5 +1,5 @@
 {
-  "name": "march/flarum-ext-auth-sms",
+  "name": "cpluscc/flarum-sms",
   "description": "Login using sms",
   "keywords": [
       "flarum",
